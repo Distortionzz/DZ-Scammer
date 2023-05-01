@@ -18,7 +18,7 @@ Discord: Distortionz_z#5314
     2. Mastercard
 
 - Steps for installing the items
-    1. Go to "qb" folder
+    1. Go to "qb-core" folder
     2. Go to "Shared" folder
     3. Go to "items.lua" file
     4. Add the following code in a new section.
