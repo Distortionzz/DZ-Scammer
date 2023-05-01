@@ -30,7 +30,9 @@ Discord: Distortionz_z#5314
         ```
     5. Open server.cfj and ensure DZ-SCAMMER
     6. Done ! Enjoy!
-
+| Command | Description |
+| --- | --- |
+| /DZ | See the latest Version of the script in-game! |
 
 ## Stay in touch with my github! ##
 Link: https://github.com/Distortionzz        
