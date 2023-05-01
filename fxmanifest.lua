@@ -1,0 +1,6 @@
+name "DZ-Scammer"
+author "Distortionz_z"
+version "v0.1"
+description "DZ-Scammer by Distortionz_z"
+fx_version "cerulean"
+game "gta5"
