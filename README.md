@@ -23,9 +23,11 @@ Discord: Distortionz_z#5314
     3. Go to "items.lua" file
     4. Add the following code in a new section.
         
+        ```
         -- DZ-Scammer Items
     	['forgedocument'] 			 = {['name'] = 'forgedocuments', 				['label'] = 'Fake Documents', 		['weight'] = 100, 		['type'] = 'item', 		['image'] = 'forgedocuments.png', 		['unique'] = true, 		['useable'] = true, 	['shouldClose'] = false,	   ['combinable'] = nil,   ['description'] = 'A folder containg forge card documents.'},
         ['mastercard'] 				 = {['name'] = 'mastercard', 				    ['label'] = 'Master Card', 			['weight'] = 0, 		['type'] = 'item', 		['image'] = 'mastercard.png', 			['unique'] = true, 		['useable'] = true, 	['shouldClose'] = false,       ['combinable'] = nil,   ['description'] = 'MasterCard can be used via ATM'},
+        ```
     5. Open server.cfj and ensure DZ-SCAMMER
     6. Done ! Enjoy!
 
