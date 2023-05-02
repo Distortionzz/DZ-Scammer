@@ -28,7 +28,7 @@ Discord: Distortionz_z#5314
         ['mastercard'] 				 = {['name'] = 'mastercard', 				    ['label'] = 'Master Card', 			['weight'] = 0, 		['type'] = 'item', 		['image'] = 'mastercard.png', 			['unique'] = true, 		['useable'] = true, 	['shouldClose'] = false,       ['combinable'] = nil,   ['description'] = 'MasterCard can be used via ATM'},
         ```
     5. Add the "image" to your Inventory images.
-    6. Open server.cfj and ensure DZ-SCAMMER
+    6. Open server.cfg and ensure DZ-Scammer
     7. Done ! Enjoy!
 
 
